@@ -12,17 +12,3 @@ A simple and easy-to-use weather application that allows users to search for the
 - **Responsive Design**: The app works on both desktop and mobile devices.
 - **Weather Data Display**: Displays city name, weather description, temperature, humidity, and wind speed.
 
-## Demo
-
-You can check the live demo of the application [here](#).
-
-## Screenshots
-
-### Search for City
-![Search](#)
-
-### Current Location Weather
-![Location](#)
-
-## Installation
-
